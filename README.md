@@ -23,7 +23,10 @@ Copy and paste these commands exactly please for the love of god. Here's what I 
 ![YES DO THIS](images/yes.png)
 ![NO DON'T DO THIS](images/no.png)
 
+---
+
 Also, neat trick if you're viewing this on github:
+
 ![This button is your best friend](images/cool_button.png)
 *This button is your best friend. It makes it almost impossible to mess up copying these commands*
 

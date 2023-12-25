@@ -28,7 +28,8 @@ Copy and paste these commands exactly please for the love of god. Here's what I 
 Also, neat trick if you're viewing this on github:
 
 ![This button is your best friend](images/cool_button.png)
-*This button is your best friend. It makes it almost impossible to mess up copying these commands*
+
+### This button is your best friend. It makes it almost impossible to mess up
 
 You want the command to be just the one line in the code box that has what you need. To download a different video pweese change the url that's in between the single quotes to the URL of the video you want to download
 

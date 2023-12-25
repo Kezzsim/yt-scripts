@@ -4,7 +4,7 @@
 
 ---
 
-This article is in a format that will look funny in textedit on your computer, please view it online by [clicking here](https://github.com/Kezzsim/yt-scripts). It will also be updated from time to time if you encounter issues using it.
+This article is in a format that will look funny in textedit on your computer, please view it online by [clicking here](https://github.com/Kezzsim/yt-scripts). It will also be updated from time to time if you encounter issues using it. Just click on the file that says **CLICKME** before reading this document on your computer any further.
 
 ***Requirements***:
 MacOS
